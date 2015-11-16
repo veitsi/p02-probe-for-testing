@@ -1,0 +1,14 @@
+{
+  "name": "mit11",
+  "version": "0.0.1",
+  "description":"math test",
+  "main":"main.js",
+  "dependencies": {
+    "chai": "^3.4.1",
+    "cheerio": "latest",
+    "mocha": "latest",
+    "q": "latest",
+    "require": "^2.4.20"
+  },
+  "license":"mit"
+}
